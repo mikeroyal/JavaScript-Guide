@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128940597-70d4dcdb-72eb-4004-a7ef-280cf77aa84b.png">
   <br />
  JavaScript Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128940604-801cacb0-6dbb-4fe2-8454-cbce1d0c709f.png">
   <br />
 </p>
 
@@ -358,7 +358,6 @@
 
 [ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
 
-
 # Cordova Development
 [Back to the Top](https://github.com/mikeroyal/JavaScript-Guide#table-of-contents)
 
@@ -652,7 +651,7 @@
 [Back to the Top](https://github.com/mikeroyal/JavaScript-Guide#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128940609-1d92fbc8-58d1-4723-a4c9-e382effe31f9.png">
   <br />
 </p>
 
