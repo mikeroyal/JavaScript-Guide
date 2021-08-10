@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [JavaScript Learning Resources](https://github.com/mikeroyal/JavaScript-Guide#javascript-learning-reosurces)
+1. [JavaScript Learning Resources](https://github.com/mikeroyal/JavaScript-Guide#javascript-learning-resources)
 
 2. [JavaScript Tools, Libraries, and Frameworks](https://github.com/mikeroyal/JavaScript-Guide#javascript-tools-libraries-and-frameworks)
 
@@ -37,7 +37,7 @@
 
 11. [Electron Development](https://github.com/mikeroyal/JavaScript-Guide#electron-development)
 
-12. [HTML/CSS Development](https://github.com/mikeroyal/JavaScript-Guide#htmlccs-development)
+12. [HTML/CSS Development](https://github.com/mikeroyal/JavaScript-Guide#htmlcss-development)
 
 
 # JavaScript Learning Resources
