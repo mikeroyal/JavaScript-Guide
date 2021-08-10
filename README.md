@@ -939,6 +939,11 @@
 # HTML/CSS Development
 [Back to the Top](https://github.com/mikeroyal/JavaScript-Guide#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/95024326-33fb3080-0637-11eb-9ecc-156776139eb4.png">
+  <br />
+</p>
+
 ## HTML/CSS Learning Resources
 
 [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML) is the basic building blocks of the Web. It defines the meaning and structure of web content along with other technologies used to describe a web page's appearance/presentation using CSS or functionality/behavior using JavaScript.
