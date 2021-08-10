@@ -15,29 +15,29 @@
 
 # Table of Contents
 
-1. [JavaScript Learning Resources](https://github.com/mikeroyal/JavaScript-Guide#)
+1. [JavaScript Learning Resources](https://github.com/mikeroyal/JavaScript-Guide#javascript-learning-reosurces)
 
-2. [JavaScript Tools, Libraries, and Frameworks](https://github.com/mikeroyal/JavaScript-Guide#)
+2. [JavaScript Tools, Libraries, and Frameworks](https://github.com/mikeroyal/JavaScript-Guide#javascript-tools-libraries-and-frameworks)
 
-3. [React Development](https://github.com/mikeroyal/JavaScript-Guide#)
+3. [React Development](https://github.com/mikeroyal/JavaScript-Guide#react-development)
 
-4. [Ionic Development](https://github.com/mikeroyal/JavaScript-Guide#)
+4. [Ionic Development](https://github.com/mikeroyal/JavaScript-Guide#ionic-development)
 
-5. [Cordova Development](https://github.com/mikeroyal/JavaScript-Guide#)
+5. [Cordova Development](https://github.com/mikeroyal/JavaScript-Guide#cordova-development)
 
-6. [Angular Development](https://github.com/mikeroyal/JavaScript-Guide#)
+6. [Angular Development](https://github.com/mikeroyal/JavaScript-Guide#angular-development)
 
-7. [Vue.js Development](https://github.com/mikeroyal/JavaScript-Guide#)
+7. [Vue.js Development](https://github.com/mikeroyal/JavaScript-Guide#vuejs-development)
 
-8. [Svelte Development](https://github.com/mikeroyal/JavaScript-Guide#)
+8. [Svelte Development](https://github.com/mikeroyal/JavaScript-Guide#svelte-development)
 
-9. [Node.js Development](https://github.com/mikeroyal/JavaScript-Guide#)
+9. [Node.js Development](https://github.com/mikeroyal/JavaScript-Guide#nodejs-development)
 
-10. [jQuery Development](https://github.com/mikeroyal/JavaScript-Guide#)
+10. [jQuery Development](https://github.com/mikeroyal/JavaScript-Guide#jquery-development)
 
-11. [ Electron Development](https://github.com/mikeroyal/JavaScript-Guide#)
+11. [Electron Development](https://github.com/mikeroyal/JavaScript-Guide#electron-development)
 
-12. [HTML/CSS Development](https://github.com/mikeroyal/JavaScript-Guide#)
+12. [HTML/CSS Development](https://github.com/mikeroyal/JavaScript-Guide#htmlccs-development)
 
 
 # JavaScript Learning Resources
