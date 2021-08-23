@@ -19,6 +19,8 @@
 
 2. [JavaScript Tools, Libraries, and Frameworks](https://github.com/mikeroyal/JavaScript-Guide#javascript-tools-libraries-and-frameworks)
 
+   - [JavaScript Libraries for Machine Learning](https://github.com/mikeroyal/JavaScript-Guide#javascript-libraries-for-machine-learning)
+
 3. [React Development](https://github.com/mikeroyal/JavaScript-Guide#react-development)
 
 4. [Ionic Development](https://github.com/mikeroyal/JavaScript-Guide#ionic-development)
