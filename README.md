@@ -53,6 +53,8 @@
 
 [Top JavaScript Courses Online | Udemy](https://www.udemy.com/topic/javascript/)
 
+[Machine Learning with Javascript Course | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
+
 [Learn JavaScript with Online Courses and Classes | edX](https://www.edx.org/learn/javascript)
 
 [Intro to JavaScript Courses | Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
@@ -137,6 +139,32 @@
 [Inferno](https://infernojs.org/) is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
 
 [Expo](https://github.com/expo/expo) is an open-source platform for making universal native apps with React.
+
+### JavaScript Libraries for Machine Learning
+
+[TensorFlow.js](https://www.tensorflow.org/js) is a library for machine learning in JavaScript. Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+
+[Brain.js](https://brain.js.org/) is a JavaScript library that makes it easy to understand GPU accelerated Neural Networks because it hides the complexity of the mathematics. Brain.js provides multiple neural network implementations as different neural nets that can be trained to do different tasks well.
+
+[Natural](https://github.com/NaturalNode/natural) is a general natural language facility for nodejs. It offers a broad range of functionalities for [Natural Language Processing](https://www.ibm.com/cloud/learn/natural-language-processing).
+
+[ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) is a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser. No software requirements, compilers, installations, or GPUs.
+
+[Ml.js](https://github.com/mljs/ml) is a JavaScript library that provides Machine learning tools in JavaScript.
+
+[Neuro.js](https://neuro.js.org) is a JavaScript library for developing and training ML models in JavaScript, and deploying in browser or on Node.js.
+
+[Stdlib](https://stdlib.io/) is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications. The library provides a collection of robust, high performance libraries for mathematics, statistics, data processing, streams, and more and includes many of the utilities you would expect from a standard library.
+
+[DeepForge](https://github.com/deepforge-dev/deepforge) is an open-source visual development environment for deep learning providing end-to-end support for creating deep learning models.
+
+[Synaptic](https://github.com/cazala/synaptic) is a javascript neural network library for node.js and the browser, its generalized algorithm is architecture-free, so you can build and train basically any type of first order or even second order neural network architectures. This library includes a few built-in architectures like multilayer perceptrons, multilayer long-short term memory networks (LSTM), liquid state machines or Hopfield networks, and a trainer capable of training any given network.
+
+[Deeplearn.js](https://www.npmjs.com/package/deeplearn) is an open source hardware-accelerated JavaScript library for machine intelligence. It brings performant machine learning building blocks to the web, allowing you to train neural networks in a browser or run pre-trained models in inference mode.
+
+[WebDNN](https://github.com/mil-tokyo/webdnn) is the fastest Deep Neural Networks(DNN) running framework for the Web Browser.
+
+[Mind](https://github.com/stevenmiller888/mind) is a flexible neural network library for Node.js and the browser.
 
 # React Development
 [Back to the Top](https://github.com/mikeroyal/JavaScript-Guide#table-of-contents)
